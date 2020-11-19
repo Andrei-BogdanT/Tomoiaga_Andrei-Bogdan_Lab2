@@ -5,10 +5,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Tomoiaga_Andrei_Bogdan_Lab2.Models;
+using LibraryModel.Models;
 using Microsoft.EntityFrameworkCore;
-using Tomoiaga_Andrei_Bogdan_Lab2.Data;
-using Tomoiaga_Andrei_Bogdan_Lab2.Models.LibraryViewModels;
+using LibraryModel.Data;
+using LibraryModel.Models.LibraryViewModels;
 
 namespace Tomoiaga_Andrei_Bogdan_Lab2.Controllers
 {

@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
-using Tomoiaga_Andrei_Bogdan_Lab2.Data;
+using LibraryModel.Data;
 
 namespace Tomoiaga_Andrei_Bogdan_Lab2
 {

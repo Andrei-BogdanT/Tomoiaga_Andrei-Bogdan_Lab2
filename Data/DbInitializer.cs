@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Tomoiaga_Andrei_Bogdan_Lab2.Models;
+using LibraryModel.Models;
 
-namespace Tomoiaga_Andrei_Bogdan_Lab2.Data
+namespace LibraryModel.Data
 {
     public class DbInitializer
     {

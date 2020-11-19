@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Tomoiaga_Andrei_Bogdan_Lab2.Data;
+using LibraryModel.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace Tomoiaga_Andrei_Bogdan_Lab2

@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Tomoiaga_Andrei_Bogdan_Lab2.Data;
-using Tomoiaga_Andrei_Bogdan_Lab2.Models;
-using Tomoiaga_Andrei_Bogdan_Lab2.Models.LibraryViewModels;
+using LibraryModel.Data;
+using LibraryModel.Models;
+using LibraryModel.Models.LibraryViewModels;
 
 namespace Tomoiaga_Andrei_Bogdan_Lab2.Controllers
 {
